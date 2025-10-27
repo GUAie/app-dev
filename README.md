@@ -1,5 +1,5 @@
 <img width="1987" height="2048" alt="image" src="https://github.com/user-attachments/assets/8801c164-57e5-4d46-8a66-5f168f2c5563" />
-# app-dev 
+# AppDev
 My first repository
 
 ## Favorite series?
